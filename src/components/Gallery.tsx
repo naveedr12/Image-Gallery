@@ -33,7 +33,6 @@ const Gallery: React.FC = () => {
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Explore our curated collection of stunning images from nature, cityscapes, and people.
-            Built with clean MVP architecture for optimal performance and maintainability.
           </p>
         </div>
 
